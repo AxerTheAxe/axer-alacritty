@@ -1,0 +1,71 @@
+[colors.primary]
+foreground = "#e0def4" # Text
+background = "#141122" # Base
+bright_foreground = "#8f83b8" # Subtle
+dim_foreground = "#e0def4" # Text
+
+[colors.cursor]
+text = "CellBackground"
+cursor = "CellForeground"
+
+[colors.vi_mode_cursor]
+text = "CellBackground"
+cursor = "CellForeground"
+
+[colors.search.matches]
+foreground = "#141122" # Base
+background = "#8b84ee" # Havona
+
+[colors.search.focused_match]
+foreground = "#141122" # Base
+background = "#ff83af" # Azalea
+
+[colors.selection]
+text = "#141122" # Base
+background = "#8b84ee" # Havona
+
+[colors.line_indicator]
+foreground = "None"
+background = "None"
+
+[colors.footer_bar]
+foreground = "#e0def4" # Text
+background = "#262041" # Surface
+
+[colors.hints.start]
+foreground = "#8f83b8" # Subtle
+background = "#262041" # Surface
+
+[colors.hints.end]
+foreground = "#6e6a86" # Muted
+background = "#262041" # Surface
+
+[colors.normal]
+black = "#494776" # Overlay
+red = "#ff83af" # Azalea
+green = "#00a981" # Spearmint
+yellow = "#f8b15d" # Gold
+blue = "#00c5d7" # Puya
+magenta = "#d599f8" # Lilac
+cyan = "#8b84ee" # Havona
+white = "#e0def4" # Text
+
+[colors.bright]
+black = "#6e6a86" # Muted
+red = "#ff83af" # Azalea
+green = "#00a981" # Spearmint
+yellow = "#f8b15d" # Gold
+blue = "#00c5d7" # Puya
+magenta = "#d599f8" # Lilac
+cyan = "#8b84ee" # Havona
+white = "#e0def4" # Text
+
+[colors.dim]
+black = "#6e6a86" # Muted
+red = "#ff83af" # Azalea
+green = "#00a981" # Spearmint
+yellow = "#f8b15d" # Gold
+blue = "#00c5d7" # Puya
+magenta = "#d599f8" # Lilac
+cyan = "#8b84ee" # Havona
+white = "#e0def4" # Text
