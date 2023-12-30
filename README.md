@@ -9,7 +9,7 @@ This config is only tested on Linux, and is not guaranteed to work on other oper
 ## Installation
 
 * Install [RobotoMono Nerd Font.](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/RobotoMono.zip)
-* Clone this repository to `.config/alacritty/`
+* Clone this repository to `~/.config/alacritty/`
 
 ## License
 
