@@ -1,0 +1,45 @@
+colors:
+  primary:
+    background: "#141122" # Base
+    foreground: "#e0def4" # Text
+  cursor:
+    text: "CellBackground"
+    cursor: "CellForeground"
+  vi_mode_cursor:
+    text: "CellBackground"
+    cursor: "CellForeground"
+  search:
+    matches:
+      background: "#8b84ee" # Havona
+      text: "#141122" # Base
+    focused_match:
+      background: "#ff83af" # Azalea
+      text: "#141122" # Base
+  selection:
+    background: "#8b84ee" # Havona
+    text: "#141122" # Base
+  normal:
+    black: "#494776" # Overlay
+    red: "#ff83af" # Azalea
+    green: "#00a981" # Spearmint
+    yellow: "#f8b15d" # Gold
+    blue: "#00c5d7" # Puya
+    magenta: "#d599f8" # Lilac
+    cyan: "#8b84ee" # Havona
+    white: "#e0def4" # Text
+  bright:
+    black: "#6e6a86" # Muted
+    red: "#ff83af" # Azalea
+    green: "#00a981" # Spearmint
+    yellow: "#f8b15d" # Gold
+    blue: "#00c5d7" # Puya
+    magenta: "#d599f8" # Lilac
+    cyan: "#8b84ee" # Havona
+    white: "#e0def4" # Text
+  hints:
+    start:
+      foreground: "#8f83b8" # Subtle
+      background: "#262041" # Surface
+    end:
+      foreground: "#6e6a86" # Muted
+      background: "#262041" # Surface
